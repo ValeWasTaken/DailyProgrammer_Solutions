@@ -14,11 +14,11 @@ def main():
         snacks = raw_input("Would you like to purchase any snacks? (Y/N): ")
         snacks = snacks.lower()
 
-        if(snacks.startswith('n'):
+        if(snacks.startswith('n')):
                 total *= 1.07 # Assumes tax rate of 7%
                 print("Very well, your total is $"+str(total)+" enjoy the movie!")
                 exit()
-        elif(snacks.startswith('y'):
+        elif(snacks.startswith('y')):
                 print("Excellent choice! Here is our menu: \n"
                         "1. Popcorn -- $4.50\n"
                         "2. Soda    -- $2.25\n"
