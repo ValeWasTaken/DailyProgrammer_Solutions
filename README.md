@@ -9,6 +9,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
 - Python_Solutions
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
+  - [Easy] Challange #3 -- Status: Completed
   - [Difficult] Challange #1 -- Status: Completed
 
 
@@ -32,6 +33,13 @@ Create a calculator application that has use in your life. It might be an intere
 EXTRA CREDIT: make the calculator have multiple functions! Not only should it be able to calculate F = M * A, but also A = F/M, and M = F/A!
 
 URL : https://reddit.com/r/dailyprogrammer/comments/pjbj8/easy_challenge_2/
+
+<strong> [Easy] Challange #3 -- Password generator (Extra, extra credit criteria met) </strong>
+
+Create a random password generator with the following attributes: The user determines how many passwords to generate 
+and the user determines the length of the password.
+
+URL : http://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/
 
 <strong> [Difficult] Challange #1 -- Completed (No EC offered) </strong>
 
