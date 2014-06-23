@@ -6,6 +6,8 @@ This is a repository of my solutions to the DailyProgrammer exercises.
 You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
 
 <h2>Table of Contents</h2>
+- C_Solutions
+  - [Intermediate] Challange #2 -- Status: Completed
 - Python_Solutions
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
@@ -18,7 +20,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
 <h3>Problem Descriptions: </h3>
 
 
-<strong> [Easy] Challange #1 -- Completed (Extra credit criteria met) </strong>
+<strong> [Easy] Challange #1 -- Completed (All extra credit criteria met) </strong>
 
 Create a program that will ask the users name, age, and reddit username. 
 Have it tell them the information back, in the format:
@@ -27,19 +29,25 @@ For extra credit, have the program log this information in a file to be accessed
 
 URL : https://reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/
 
-<strong> [Easy] Challange #2 -- (anything) Calculator (Extra credit criteria met) </strong>
+<strong> [Easy] Challange #2 -- (anything) Calculator (All extra credit criteria met) </strong>
 
 Create a calculator application that has use in your life. It might be an interest calculator, or it might be something that you can use in the classroom. For example, if you were in physics class, you might want to make a F = M * A calc.
 EXTRA CREDIT: make the calculator have multiple functions! Not only should it be able to calculate F = M * A, but also A = F/M, and M = F/A!
 
 URL : https://reddit.com/r/dailyprogrammer/comments/pjbj8/easy_challenge_2/
 
-<strong> [Easy] Challange #3 -- Password generator (Extra, extra credit criteria met) </strong>
+<strong> [Easy] Challange #3 -- Password generator (All extra credit criteria met) </strong>
 
 Create a random password generator with the following attributes: The user determines how many passwords to generate 
 and the user determines the length of the password.
 
 URL : http://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/
+
+<strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
+
+Create a Choose Your Own Adventure prototype. Use C for super extra credit.
+
+URL : https://pay.reddit.com/r/dailyprogrammer/comments/pjbuj/intermediate_challenge_2/
 
 <strong> [Difficult] Challange #1 -- Completed (No EC offered) </strong>
 
