@@ -49,7 +49,13 @@ URL : http://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4
 Find the digital root of a number. 
 Digital root example: 31337 -> 3+1+3+3+7 = 17 -> 1+7 = 8, the digital root.
 <BR>
-URL: http://www.reddit.com/r/dailyprogrammer/comments/1berjh/040113_challenge_122_easy_sum_them_digits/
+URL : http://www.reddit.com/r/dailyprogrammer/comments/1berjh/040113_challenge_122_easy_sum_them_digits/
+
+<strong> [Easy] Challange #128 -- Sum Them Digits, Part II (No EC offered) </strong>
+<BR>
+Given a well-formed (non-empty, fully valid) string of digits, let the integer N be the sum of digits. Then, given this integer N, turn it into a string of digits. Repeat this process until you only have one digit left.
+<BR>
+URL : http://www.reddit.com/r/dailyprogrammer/comments/1fnutb/06413_challenge_128_easy_sumthedigits_part_ii/
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
