@@ -12,6 +12,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
   - [Easy] Challange #3 -- Status: Completed
+  - [Easy] Challange #122 -- Status: Completed
   - [Difficult] Challange #1 -- Status: Completed
 
 
@@ -42,6 +43,13 @@ Create a random password generator with the following attributes: The user deter
 and the user determines the length of the password.
 <BR>
 URL : http://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/
+
+<strong> [Easy] Challange #122 -- Sum Them Digits [Digital Root] (No EC offered)
+<BR>
+Find the digital root of a number. 
+Digital root example: 31337 -> 3+1+3+3+7 = 17 -> 1+7 = 8, the digital root.
+<BR>
+URL: http://www.reddit.com/r/dailyprogrammer/comments/1berjh/040113_challenge_122_easy_sum_them_digits/
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
