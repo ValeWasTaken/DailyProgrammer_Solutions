@@ -11,7 +11,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
 - Python_Solutions
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
-  - [Easy] Challange #3 -- Status: Completed
+  - [Easy] Challange #4 -- Status: Completed
   - [Easy] Challange #122 -- Status: Completed
   - [Easy] Challange #128 -- Status: Completed
   - [Difficult] Challange #1 -- Status: Completed
@@ -38,7 +38,7 @@ EXTRA CREDIT: make the calculator have multiple functions! Not only should it be
 <BR>
 URL : https://reddit.com/r/dailyprogrammer/comments/pjbj8/easy_challenge_2/
 
-<strong> [Easy] Challange #3 -- Password generator (All extra credit criteria met) </strong>
+<strong> [Easy] Challange #4 -- Password generator (All extra credit criteria met) </strong>
 <BR>
 Create a random password generator with the following attributes: The user determines how many passwords to generate 
 and the user determines the length of the password.
