@@ -13,6 +13,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
   - [Easy] Challange #2 -- Status: Completed
   - [Easy] Challange #3 -- Status: Completed
   - [Easy] Challange #122 -- Status: Completed
+  - [Easy] Challange #128 -- Status: Completed
   - [Difficult] Challange #1 -- Status: Completed
 
 
