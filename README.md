@@ -46,7 +46,7 @@ and the user determines the length of the password.
 <BR>
 URL : http://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/
 
-<strong> [Easy] Challange #122 -- Sum Them Digits [Digital Root] (No EC offered)
+<strong> [Easy] Challange #122 -- Sum Them Digits / Digital Root (No EC offered)
 <BR>
 Find the digital root of a number. 
 Digital root example: 31337 -> 3+1+3+3+7 = 17 -> 1+7 = 8, the digital root.
