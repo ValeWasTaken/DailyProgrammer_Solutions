@@ -14,6 +14,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
   - [Easy] Challange #4 -- Status: Completed
   - [Easy] Challange #122 -- Status: Completed
   - [Easy] Challange #128 -- Status: Completed
+  - [Easy] Challange #149 -- Status: Completed
   - [Intermediate] Challange #2 -- Status: Completed
   - [Difficult] Challange #1 -- Status: Completed
 
@@ -58,6 +59,12 @@ URL : http://www.reddit.com/r/dailyprogrammer/comments/1berjh/040113_challenge_1
 Given a well-formed (non-empty, fully valid) string of digits, let the integer N be the sum of digits. Then, given this integer N, turn it into a string of digits. Repeat this process until you only have one digit left.
 <BR>
 URL : http://www.reddit.com/r/dailyprogrammer/comments/1fnutb/06413_challenge_128_easy_sumthedigits_part_ii/
+
+<strong> [Easy] Challange #149 --Disemvoweler (No EC offered) </strong>
+<BR>
+Remove the vowels from words and output the message (without vowels) followed by the vowels (in order) on the next line.
+<BR>
+https://reddit.com/r/dailyprogrammer/comments/1ystvb/022414_challenge_149_easy_disemvoweler/
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
