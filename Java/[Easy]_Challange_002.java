@@ -52,7 +52,7 @@ public class Easy_Challange_002
 		
 		else 
 		{
-		System.out.println("Error. Please restart the program and try again.");	
+			System.out.println("Error. Please restart the program and try again.");	
 		}
 	}
 }
