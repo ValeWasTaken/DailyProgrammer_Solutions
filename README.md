@@ -8,6 +8,8 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
 <h2>Table of Contents</h2>
 - C_Solutions
   - [Intermediate] Challange #2 -- Status: Completed
+- Java_Solutions
+  - [Easy] Challange #2 -- Status: Completed
 - Python_Solutions
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
