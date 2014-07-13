@@ -10,6 +10,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
   - [Intermediate] Challange #2 -- Status: Completed
 - Java_Solutions
   - [Easy] Challange #2 -- Status: Completed
+  - [Easy] Challange #115
 - Python_Solutions
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
@@ -48,6 +49,12 @@ Create a random password generator with the following attributes: The user deter
 and the user determines the length of the password.
 <BR>
 URL : http://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/
+
+<strong> [Easy] Challange #115 -- Guess-that-number game (No EC offered) </strong>
+<BR>
+Create a guessing game. Generate a random number, request user input. Tell the user if the guess was too high, too low, or correct.
+<BR>
+URL : http://www.reddit.com/r/dailyprogrammer/comments/15ul7q/122013_challenge_115_easy_guessthatnumber_game/
 
 <strong> [Easy] Challange #122 -- Sum Them Digits / Digital Root (No EC offered) </strong>
 <BR>
