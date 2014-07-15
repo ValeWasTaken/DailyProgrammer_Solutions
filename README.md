@@ -15,6 +15,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
   - [Easy] Challange #4 -- Status: Completed
+  - [Easy] Challange #115 -- Status: Completed
   - [Easy] Challange #122 -- Status: Completed
   - [Easy] Challange #128 -- Status: Completed
   - [Easy] Challange #149 -- Status: Completed
