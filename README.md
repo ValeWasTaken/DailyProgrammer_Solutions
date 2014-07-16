@@ -10,7 +10,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
   - [Intermediate] Challange #2 -- Status: Completed
 - Java_Solutions
   - [Easy] Challange #2 -- Status: Completed
-  - [Easy] Challange #115 -- Status: Bug testing
+  - [Easy] Challange #115 -- Status: Completed
 - Python_Solutions
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
