@@ -74,7 +74,7 @@ URL : http://www.reddit.com/r/dailyprogrammer/comments/1fnutb/06413_challenge_12
 <BR>
 Remove the vowels from words and output the message (without vowels) followed by the vowels (in order) on the next line.
 <BR>
-https://reddit.com/r/dailyprogrammer/comments/1ystvb/022414_challenge_149_easy_disemvoweler/
+URL : https://reddit.com/r/dailyprogrammer/comments/1ystvb/022414_challenge_149_easy_disemvoweler/
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
