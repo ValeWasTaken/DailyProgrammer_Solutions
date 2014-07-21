@@ -18,6 +18,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
   - [Easy] Challange #115 -- Status: Completed
   - [Easy] Challange #122 -- Status: Completed
   - [Easy] Challange #128 -- Status: Completed
+  - [Easy] Challange #143 -- Status: Completed
   - [Easy] Challange #149 -- Status: Completed
   - [Intermediate] Challange #2 -- Status: Completed
   - [Difficult] Challange #1 -- Status: Completed
@@ -69,6 +70,12 @@ URL : http://redd.it/1berjh
 Given a well-formed (non-empty, fully valid) string of digits, let the integer N be the sum of digits. Then, given this integer N, turn it into a string of digits. Repeat this process until you only have one digit left.
 <BR>
 URL : http://redd.it/1fnutb
+
+<strong> [Easy] Challange #143 -- Braille (No EC offered) </strong>
+<BR>
+Create a brailler translator program.
+<BR>
+URL : http://redd.it/1s061q
 
 <strong> [Easy] Challange #149 --Disemvoweler (No EC offered) </strong>
 <BR>
