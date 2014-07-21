@@ -73,7 +73,7 @@ URL : http://redd.it/1fnutb
 
 <strong> [Easy] Challange #143 -- Braille (No EC offered) </strong>
 <BR>
-Create a brailler translator program.
+Your goal is to read in a string of Braille characters and print off the word in standard English letters. You only have to support the 26 English letters.
 <BR>
 URL : http://redd.it/1s061q
 
