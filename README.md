@@ -6,12 +6,12 @@ This is a repository of my solutions to the DailyProgrammer exercises.
 You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
 
 <h2>Table of Contents</h2>
-- C_Solutions
+- <strong>C_Solutions</strong>
   - [Intermediate] Challange #2 -- Status: Completed
-- Java_Solutions
+- <strong>Java_Solutions</strong>
   - [Easy] Challange #2 -- Status: Completed
   - [Easy] Challange #115 -- Status: Completed
-- Python_Solutions
+- <strong>Python_Solutions</strong>
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
   - [Easy] Challange #4 -- Status: Completed
