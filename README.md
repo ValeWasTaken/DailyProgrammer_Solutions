@@ -15,6 +15,7 @@ You can find all exercises located at: https://reddit.com/r/dailyprogrammer/
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
   - [Easy] Challange #4 -- Status: Completed
+  - [Easy] Challange #109 -- Status: Completed
   - [Easy] Challange #115 -- Status: Completed
   - [Easy] Challange #122 -- Status: Completed
   - [Easy] Challange #128 -- Status: Completed
@@ -51,6 +52,12 @@ Create a random password generator with the following attributes: The user deter
 and the user determines the length of the password.
 <BR>
 URL : http://redd.it/pm6oj
+
+<strong> [Easy] Challange #109 -- Digits Check (No EC offered) </strong>
+<BR>
+Write a function, where given a string, return true if it only contains the digits from 0 (zero) to 9 (nine). Else, return false.
+<BR>
+URL : http://redd.it/12csk7
 
 <strong> [Easy] Challange #115 -- Guess-that-number game (No EC offered) </strong>
 <BR>
