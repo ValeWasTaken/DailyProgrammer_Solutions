@@ -42,7 +42,7 @@ URL : http://redd.it/pih8x
 <strong> [Easy] Challange #2 -- (anything) Calculator (All extra credit criteria met) </strong>
 <BR>
 Create a calculator application that has use in your life. It might be an interest calculator, or it might be something that you can use in the classroom. For example, if you were in physics class, you might want to make a F = M * A calc.
-EXTRA CREDIT: make the calculator have multiple functions! Not only should it be able to calculate F = M * A, but also A = F/M, and M = F/A!
+EXTRA CREDIT: make the calculator have multiple functions.
 <BR>
 URL : http://redd.it/pjbj8
 
