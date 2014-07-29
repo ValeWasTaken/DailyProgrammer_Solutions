@@ -1,7 +1,3 @@
-# Objective:
-# Create a number guessing game where the computer will guess
-# numbers between 1-100 as efficiently as possible.
-#
 import math
 
 def restart():
