@@ -47,8 +47,4 @@ def game():
         else:
             print("Invalid command. Please try again. ")
     return 0
-
-def main():
-    game()
-    
-main()
+game()
