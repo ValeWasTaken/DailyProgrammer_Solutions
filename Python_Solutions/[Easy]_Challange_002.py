@@ -1,8 +1,3 @@
-# Objective:
-# Create a calculator of some sort.
-# Extra credit: Program multiple functions (Ex: Find F=M*A, A=F/M, and M=F/A)
-#
-
 def main():
         print("Movie cost calculator\n"
                 "Please enter your information to find the cost: ")
@@ -43,7 +38,4 @@ def main():
 main()
 
 # Note: Since this was a very basic program I didn't bother making it very long.
-# Naturally if one really needed a movie program like this they would add different ticket prices for
-# students, seniors, adults, veterans, children, etc.. They would have options for buying multiple
-# snacks and more options on things to buy. In other words there would be a lot else needed but this is just a
-# proof of concept to show I understand enough to do the rest if I felt inclined to.
+# Consider it a proof of concept, if anything.
