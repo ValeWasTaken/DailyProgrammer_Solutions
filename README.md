@@ -10,6 +10,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
   - [Intermediate] Challange #2 -- Status: Completed
 - <strong>Java_Solutions</strong>
   - [Easy] Challange #2 -- Status: Completed
+  - [Easy] Challange #8 -- Status: Completed
   - [Easy] Challange #115 -- Status: Completed
 - <strong>Python_Solutions</strong>
   - [Easy] Challange #1 -- Status: Completed
@@ -52,6 +53,14 @@ Create a random password generator with the following attributes: The user deter
 and the user determines the length of the password.
 <BR>
 URL : http://redd.it/pm6oj
+
+<strong> [Easy] Challange #8 -- 99 Bottles of Beer (All extra credit criteria met) </strong>
+<BR>
+Write a program that will print the song "99 bottles of beer on the wall".
+<BR>
+For extra credit, do not allow the program to print each loop on a new line.
+<BR>
+URL : http://redd.it/pserp
 
 <strong> [Easy] Challange #109 -- Digits Check (No EC offered) </strong>
 <BR>
