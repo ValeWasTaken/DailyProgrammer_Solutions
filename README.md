@@ -16,6 +16,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
   - [Easy] Challange #1 -- Status: Completed
   - [Easy] Challange #2 -- Status: Completed
   - [Easy] Challange #4 -- Status: Completed
+  - [Easy] Challange #93 -- Status: Completed
   - [Easy] Challange #109 -- Status: Completed
   - [Easy] Challange #115 -- Status: Completed
   - [Easy] Challange #122 -- Status: Completed
@@ -61,6 +62,12 @@ Write a program that will print the song "99 bottles of beer on the wall".
 For extra credit, do not allow the program to print each loop on a new line.
 <BR>
 URL : http://redd.it/pserp
+
+<strong> [Easy] Challange #93 -- Two-Way Morse Code Translator (No EC offered) </strong>
+<BR>
+In this challenge, we read in a string from standard input and output the translation to or from morse code on standard output. Example: 'sos' -> '... --- ...' '... --- ...' -> 'sos'
+<BR>
+URL : http://redd.it/z3a4y
 
 <strong> [Easy] Challange #109 -- Digits Check (No EC offered) </strong>
 <BR>
