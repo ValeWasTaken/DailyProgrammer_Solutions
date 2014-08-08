@@ -7,24 +7,29 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
 
 <h2>Table of Contents</h2>
 - <strong>C_Solutions</strong>
-  - [Intermediate] Challange #002 -- Status: Completed
+  - [Intermediate] 
+    - Challange #002 -- Status: Completed
 - <strong>Java_Solutions</strong>
-  - [Easy] Challange #002 -- Status: Completed
-  - [Easy] Challange #008 -- Status: Completed
-  - [Easy] Challange #115 -- Status: Completed
+  - [Easy] 
+    - Challange #002 -- Status: Completed
+    - Challange #008 -- Status: Completed
+    - Challange #115 -- Status: Completed
 - <strong>Python_Solutions</strong>
-  - [Easy] Challange #001 -- Status: Completed
-  - [Easy] Challange #002 -- Status: Completed
-  - [Easy] Challange #004 -- Status: Completed
-  - [Easy] Challange #093 -- Status: Completed
-  - [Easy] Challange #109 -- Status: Completed
-  - [Easy] Challange #115 -- Status: Completed
-  - [Easy] Challange #122 -- Status: Completed
-  - [Easy] Challange #128 -- Status: Completed
-  - [Easy] Challange #143 -- Status: Completed
-  - [Easy] Challange #149 -- Status: Completed
-  - [Intermediate] Challange #002 -- Status: Completed
-  - [Difficult] Challange #001 -- Status: Completed
+  - [Easy] 
+    - Challange #001 -- Status: Completed
+    - Challange #002 -- Status: Completed
+    - Challange #004 -- Status: Completed
+    - Challange #093 -- Status: Completed
+    - Challange #109 -- Status: Completed
+    - Challange #115 -- Status: Completed
+    - Challange #122 -- Status: Completed
+    - Challange #128 -- Status: Completed
+    - Challange #143 -- Status: Completed
+    - Challange #149 -- Status: Completed
+  - [Intermediate] 
+    - Challange #002 -- Status: Completed
+  - [Difficult] 
+    - Challange #001 -- Status: Completed
 
 
 
