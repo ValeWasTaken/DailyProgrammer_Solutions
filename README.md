@@ -7,24 +7,24 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
 
 <h2>Table of Contents</h2>
 - <strong>C_Solutions</strong>
-  - [Intermediate] Challange #2 -- Status: Completed
+  - [Intermediate] Challange #002 -- Status: Completed
 - <strong>Java_Solutions</strong>
-  - [Easy] Challange #2 -- Status: Completed
-  - [Easy] Challange #8 -- Status: Completed
+  - [Easy] Challange #002 -- Status: Completed
+  - [Easy] Challange #008 -- Status: Completed
   - [Easy] Challange #115 -- Status: Completed
 - <strong>Python_Solutions</strong>
-  - [Easy] Challange #1 -- Status: Completed
-  - [Easy] Challange #2 -- Status: Completed
-  - [Easy] Challange #4 -- Status: Completed
-  - [Easy] Challange #93 -- Status: Completed
+  - [Easy] Challange #001 -- Status: Completed
+  - [Easy] Challange #002 -- Status: Completed
+  - [Easy] Challange #004 -- Status: Completed
+  - [Easy] Challange #093 -- Status: Completed
   - [Easy] Challange #109 -- Status: Completed
   - [Easy] Challange #115 -- Status: Completed
   - [Easy] Challange #122 -- Status: Completed
   - [Easy] Challange #128 -- Status: Completed
   - [Easy] Challange #143 -- Status: Completed
   - [Easy] Challange #149 -- Status: Completed
-  - [Intermediate] Challange #2 -- Status: Completed
-  - [Difficult] Challange #1 -- Status: Completed
+  - [Intermediate] Challange #002 -- Status: Completed
+  - [Difficult] Challange #001 -- Status: Completed
 
 
 
