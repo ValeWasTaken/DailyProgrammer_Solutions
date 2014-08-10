@@ -9,7 +9,7 @@ public class [Easy]_Challange_008 {
 			if(beerNum == 1)
 			{word = "bottle";} // Change wording if last bottle.
 
-      //All printed on one line for extra credit.
+      			//All printed on one line for extra credit.
 			System.out.print(beerNum + " " + word + " of beer on the wall! ");
 			System.out.print(beerNum + " " + word + " of beer! ");
 			System.out.print("Take one down, ");
@@ -17,9 +17,8 @@ public class [Easy]_Challange_008 {
 			beerNum--;
 		}
 		if(beerNum == 0)
-		{
-			System.out.println("No more bottles of beer on the wall");
-		}
+		{System.out.println("No more bottles of beer on the wall");}
+		
 		else
 		{System.out.println("Error.");}
 	}
