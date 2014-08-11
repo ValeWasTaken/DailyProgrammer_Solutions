@@ -14,8 +14,7 @@ public class Easy_Challange_002
 				+"Options: \nA - Acceleration\nF - Force\nM - Mass\n");
 		menuChoice = userInput.nextLine();
 		
-		if(menuChoice.equalsIgnoreCase("A"))
-		{
+		if(menuChoice.equalsIgnoreCase("A")) {
 			// A = F/M
 			System.out.println("Please enter the force: ");
 			f = userInput.nextDouble();
@@ -24,10 +23,7 @@ public class Easy_Challange_002
 			
 			a = (f/m);
 			System.out.println("The acceleration is: " + a);
-		}
-		
-		else if(menuChoice.equalsIgnoreCase("F"))
-		{
+		} else if(menuChoice.equalsIgnoreCase("F")){
 			// F = M*A
 			System.out.println("Please enter the mass: ");
 			m = userInput.nextDouble();
@@ -36,9 +32,7 @@ public class Easy_Challange_002
 			
 			f = (m*a);
 			System.out.println("The acceleration is: " + f);
-		}
-		
-		else if(menuChoice.equalsIgnoreCase("M"))
+		} else if(menuChoice.equalsIgnoreCase("M"))
 		{
 			// M = F/A
 			System.out.println("Please enter the force: ");
@@ -48,11 +42,6 @@ public class Easy_Challange_002
 			
 			m = (f/a);
 			System.out.println("The acceleration is: " + m);
-		}
-		
-		else 
-		{
-			System.out.println("Error. Please restart the program and try again.");	
-		}
+		} else { System.out.println("Error. Please restart the program and try again.");}
 	}
 }
