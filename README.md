@@ -26,6 +26,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #128 -- Status: Completed
     - Challange #143 -- Status: Completed
     - Challange #149 -- Status: Completed
+    - Challange #173 -- Status: Completed
   - [Intermediate] 
     - Challange #002 -- Status: Completed
   - [Difficult] 
@@ -110,6 +111,12 @@ URL : http://redd.it/1s061q
 Remove the vowels from words and output the message (without vowels) followed by the vowels (in order) on the next line.
 <BR>
 URL : http://redd.it/1ystvb
+
+<strong> [Easy] Challange #173 -- Unit Calculator (No EC offered) </strong>
+<BR>
+Your calculator must be able to convert between metres, inches, miles and attoparsecs. It must also be able to convert between kilograms, pounds, ounces and hogsheads of Beryllium.
+<BR>
+URL : http://redd.it/2bxntq
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
