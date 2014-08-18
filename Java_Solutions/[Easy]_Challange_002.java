@@ -23,7 +23,7 @@ public class Easy_Challange_002
 			
 			a = (f/m);
 			System.out.println("The acceleration is: " + a);
-		} else if(menuChoice.equalsIgnoreCase("F")){
+		} else if(menuChoice.equalsIgnoreCase("F")) {
 			// F = M*A
 			System.out.println("Please enter the mass: ");
 			m = userInput.nextDouble();
@@ -32,8 +32,7 @@ public class Easy_Challange_002
 			
 			f = (m*a);
 			System.out.println("The acceleration is: " + f);
-		} else if(menuChoice.equalsIgnoreCase("M"))
-		{
+		} else if(menuChoice.equalsIgnoreCase("M")) {
 			// M = F/A
 			System.out.println("Please enter the force: ");
 			f = userInput.nextDouble();
