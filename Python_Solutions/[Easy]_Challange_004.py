@@ -1,7 +1,3 @@
-# Objective:
-# Create a random password generator with the following attributes:
-# User determines how many passwords generated & user specifies length of password.
-#
 from random import randint
 
 def main():
