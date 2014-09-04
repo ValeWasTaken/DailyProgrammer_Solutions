@@ -21,9 +21,7 @@ def main():
 		'If I guess your number, type "correct" or "c"!\n')
 
 	numGuessed = False
-	minNum = 1
-	maxNum = 100
-	guess = 50	
+	minNum,maxNum,guess = 1,100,50	
 	
 	while(numGuessed != True):
 		guess = int((maxNum + minNum)/2)
