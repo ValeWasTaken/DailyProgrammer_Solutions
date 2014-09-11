@@ -33,8 +33,7 @@ def convert_to_english_from_braille(input):
     reverse_dictionary = dict ((a,b) for b, a in braille_dictionary.items())
     message = ''
     print "\nYour messaged in English is..\n"
-    fixed_input = input
-    fixed_input = fixed_input.upper()
+    fixed_input = input.upper()
     words = []
     for start in range(0, len(fixed_input), 6):
         words.append(fixed_input[start:(start + 6)])
@@ -51,8 +50,7 @@ def convert_to_braille_from_english(input):
     print message
 
 def restart():
-    restart = raw_input("\nWould you like to do another conversion? (Y/N): ")
-    restart = restart.upper()
+    restart = raw_input("\nWould you like to do another conversion? (Y/N): ").upper()
     if(restart == 'Y'):
         main()
     elif(restart == 'N'):
