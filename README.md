@@ -31,6 +31,8 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #002 -- Status: Completed
   - [Difficult] 
     - Challange #001 -- Status: Completed
+  - [Hard]
+    - Challange #192 -- Status: Completed
 
 
 
@@ -131,3 +133,11 @@ whether users say that the number is too high or too low.
 Try to make a program that can guess your number based on user input and great code!
 <BR>
 URL : http://redd.it/pii6j
+
+<strong> [Hard] Challange #192 -- Completed (No EC offered) </strong>
+<BR>
+You must get data from a website. Any data. Game websites. Wikipedia. Reddit. Twitter. Census or similar data.
+You read in this data and generate an analysis of it. For example maybe you get player statistics from a sport like Soccer, Baseball, whatever. And find the top players or top statistics. Or you find a trend like age of players over 5 years of how they perform better or worse.
+Display or show your results. Can be text. Can be graphical. If you need ideas - check out http://www.reddit.com/r/dataisbeautiful great examples of how people mine data for showing some cool relationships.
+<BR>
+URL : http://redd.it/2p4b72
