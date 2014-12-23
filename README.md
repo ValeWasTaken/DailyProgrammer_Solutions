@@ -27,6 +27,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #143 -- Status: Completed
     - Challange #149 -- Status: Completed
     - Challange #173 -- Status: Completed
+    - Challange #192 -- Status: Completed
   - [Intermediate] 
     - Challange #002 -- Status: Completed
   - [Difficult] 
@@ -119,6 +120,12 @@ URL : http://redd.it/1ystvb
 Your calculator must be able to convert between metres, inches, miles and attoparsecs. It must also be able to convert between kilograms, pounds, ounces and hogsheads of Beryllium.
 <BR>
 URL : http://redd.it/2bxntq
+
+<strong> [Easy] Challange #192 -- Acronym Expander (No EC offered) </strong>
+<BR>
+Convert an abbreviated sentence into its full version.
+<BR>
+URL : http://redd.it/2ptrmp
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
