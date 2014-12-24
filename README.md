@@ -27,6 +27,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #143 -- Status: Completed
     - Challange #149 -- Status: Completed
     - Challange #173 -- Status: Completed
+    - Challange #190 -- Status: Completed
     - Challange #192 -- Status: Completed
   - [Intermediate] 
     - Challange #002 -- Status: Completed
@@ -140,6 +141,12 @@ whether users say that the number is too high or too low.
 Try to make a program that can guess your number based on user input and great code!
 <BR>
 URL : http://redd.it/pii6j
+
+<strong> [Hard] Challange #190 -- Webscraping sentiments (No EC offered) </strong>
+<BR>
+Your task is to scrape N (You decide but generally, the higher the sample, the more accurate) number of comments from a YouTube video of your choice and then analyse their sentiments based on a short list of happy/sad keywords
+<BR>
+URL : http://redd.it/2nauiv
 
 <strong> [Hard] Challange #192 -- Completed (No EC offered) </strong>
 <BR>
