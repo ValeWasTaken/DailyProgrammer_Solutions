@@ -28,7 +28,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #149 -- Status: Completed
     - Challange #173 -- Status: Completed
     - Challange #190 -- Status: Completed
-    - Challange #192 -- Status: Completed
+    - Challange #193 -- Status: Completed
   - [Intermediate] 
     - Challange #002 -- Status: Completed
   - [Difficult] 
@@ -122,7 +122,13 @@ Your calculator must be able to convert between metres, inches, miles and attopa
 <BR>
 URL : http://redd.it/2bxntq
 
-<strong> [Easy] Challange #192 -- Acronym Expander (No EC offered) </strong>
+<strong> [Easy] Challange #190 -- Webscraping sentiments (No EC offered) </strong>
+<BR>
+Your task is to scrape N (You decide but generally, the higher the sample, the more accurate) number of comments from a YouTube video of your choice and then analyse their sentiments based on a short list of happy/sad keywords
+<BR>
+URL : http://redd.it/2nauiv
+
+<strong> [Easy] Challange #193 -- Acronym Expander (No EC offered) </strong>
 <BR>
 Convert an abbreviated sentence into its full version.
 <BR>
@@ -134,7 +140,7 @@ Create a Choose Your Own Adventure prototype. Use C for super extra credit.
 <BR>
 URL : http://redd.it/pjbuj
 
-<strong> [Difficult] Challange #1 -- Completed (No EC offered) </strong>
+<strong> [Difficult] Challange #1 -- <No problem name> (No EC offered) </strong>
 <BR>
 Create a program that will guess numbers between 1-100, and respond appropriately based on 
 whether users say that the number is too high or too low. 
@@ -142,13 +148,7 @@ Try to make a program that can guess your number based on user input and great c
 <BR>
 URL : http://redd.it/pii6j
 
-<strong> [Hard] Challange #190 -- Webscraping sentiments (No EC offered) </strong>
-<BR>
-Your task is to scrape N (You decide but generally, the higher the sample, the more accurate) number of comments from a YouTube video of your choice and then analyse their sentiments based on a short list of happy/sad keywords
-<BR>
-URL : http://redd.it/2nauiv
-
-<strong> [Hard] Challange #192 -- Completed (No EC offered) </strong>
+<strong> [Hard] Challange #192 -- Web Mining (No EC offered) </strong>
 <BR>
 You must get data from a website. Any data. Game websites. Wikipedia. Reddit. Twitter. Census or similar data.
 You read in this data and generate an analysis of it. For example maybe you get player statistics from a sport like Soccer, Baseball, whatever. And find the top players or top statistics. Or you find a trend like age of players over 5 years of how they perform better or worse.
