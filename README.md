@@ -29,6 +29,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #173 -- Status: Completed
     - Challange #190 -- Status: Completed
     - Challange #193 -- Status: Completed
+    - Challange #197 -- Status: Completed
   - [Intermediate] 
     - Challange #002 -- Status: Completed
   - [Difficult] 
@@ -133,6 +134,12 @@ URL : http://redd.it/2nauiv
 Convert an abbreviated sentence into its full version.
 <BR>
 URL : http://redd.it/2ptrmp
+
+<strong> [Easy] Challange #197 -- ISBN Validator (All extra credit criteria met) </strong>
+<BR>
+Create an ISBN validator. For extra credit make an ISBN generator.
+<BR>
+URL : http://redd.it/2s7ezp
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
