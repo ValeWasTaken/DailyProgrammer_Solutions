@@ -1,8 +1,7 @@
 import math
 
 def restart():
-	restart = raw_input("Would you like to play again? (Y/N): ")
-	restart = restart.upper()
+	restart = raw_input("Would you like to play again? (Y/N): ").upper()
 	if(restart == 'Y'):
 		numGuessed = False
 		main()
@@ -25,8 +24,7 @@ def main():
 	
 	while(numGuessed != True):
 		guess = int((maxNum + minNum)/2)
-		userResponse = raw_input("Is your number: %d?\n" % guess)
-		userResponse = userResponse.lower()		
+		userResponse = raw_input("Is your number: %d?\n" % guess).lower()		
 
 		if(guess == 99):
 			guess = 100
