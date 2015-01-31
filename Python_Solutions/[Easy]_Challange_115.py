@@ -8,8 +8,8 @@ def main():
     guess = 0
 
     while(guess != number):
-        guess = raw_input("Guess a number: ")
-        guess = guess.lower()
+        guess = raw_input("Guess a number: ").lower()
+        
         if(guess == "exit"):
             exit()
 
