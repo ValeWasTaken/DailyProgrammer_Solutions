@@ -30,6 +30,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #190 -- Status: Completed
     - Challange #193 -- Status: Completed
     - Challange #197 -- Status: Completed
+    - Challange #203 -- Status: Completed
   - [Intermediate] 
     - Challange #002 -- Status: Completed
   - [Difficult] 
@@ -140,6 +141,14 @@ URL : http://redd.it/2ptrmp
 Create an ISBN validator. For extra credit make an ISBN generator.
 <BR>
 URL : http://redd.it/2s7ezp
+
+<strong> [Easy] Challange #203 -- The Start of Something Big (No EC offered) </strong>
+<BR>
+On your screen, display a square.
+You may use any libraries available to you.
+The square may be of any size and of any colou
+<BR>
+URL : http://redd.it/2ww3pl
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
