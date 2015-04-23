@@ -31,6 +31,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #193 -- Status: Completed
     - Challange #197 -- Status: Completed
     - Challange #203 -- Status: Completed
+    - Challange #208 -- Status: Completed
   - [Intermediate] 
     - Challange #002 -- Status: Completed
   - [Difficult] 
@@ -149,6 +150,12 @@ You may use any libraries available to you.
 The square may be of any size and of any colou
 <BR>
 URL : http://redd.it/2ww3pl
+
+<strong> [Easy] Challange #208 -- Culling Numbers (No EC offered) </strong>
+<BR>
+Find the repeats and remove them. Then display the numbers again.
+<BR>
+URL : http://redd.it/30ubcl
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
