@@ -1,6 +1,5 @@
 def restart():
-    restart = raw_input("Would you like to play again? (Y/N) ")
-    restart = restart.upper()
+    restart = raw_input("Would you like to play again? (Y/N) ").upper()
     if(restart == 'Y'):
         game()
     elif(restart == 'N'):
@@ -31,9 +30,7 @@ def game():
           "i : Inspect surrounding\n"
           "d : Damn it all! (Suicide)\n")
     while(gameOver == False):
-        userAction = raw_input("What will you do? ")
-        userAction = userAction.lower()
-
+        userAction = raw_input("What will you do? ").lower()
         if(userAction == 'n' or userAction == 'e' or userAction == 's' or userAction == 'w'):
             print("You fool! You didn't check your surrounding better,\n"
                   "this field was just a small circle over a 5000ft drop!\n")
