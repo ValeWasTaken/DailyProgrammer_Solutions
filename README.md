@@ -3,7 +3,7 @@ DailyProgrammer_Solutions
 
 This is a repository of my solutions to the DailyProgrammer exercises. 
 
-You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/wiki/challenges
+You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/wiki/challenges (Although you can check http://www.reddit.com/r/dailyprogrammer if it is not up-to-date.)
 
 <h2>Table of Contents</h2>
 - <strong>C_Solutions</strong>
