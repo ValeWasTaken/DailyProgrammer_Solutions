@@ -14,7 +14,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #002 -- Status: Completed
     - Challange #008 -- Status: Completed
     - Challange #115 -- Status: Completed
-- <strong>Python_Solutions</strong>
+- <strong>Python_Solutions</strong> (Written in Python 2.7 unless specified otherwise.)
   - [Easy] 
     - Challange #001 -- Status: Completed
     - Challange #002 -- Status: Completed
