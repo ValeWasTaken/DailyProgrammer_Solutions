@@ -32,6 +32,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challange #197 -- Status: Completed
     - Challange #203 -- Status: Completed
     - Challange #208 -- Status: Completed
+    - Challange #224 -- Status: Completed
   - [Intermediate] 
     - Challange #002 -- Status: Completed
   - [Difficult] 
@@ -156,6 +157,12 @@ URL : http://redd.it/2ww3pl
 Find the repeats and remove them. Then display the numbers again.
 <BR>
 URL : http://redd.it/30ubcl
+
+<strong> [Easy] Challange #224 -- Shuffling a List</strong>
+<BR>
+Shuffles a user inputted list. Ex: '1 2 3 4' may turn into '3 2 4 1' or any other permutation.
+<BR>
+URL : http://redd.it/3e0hmh
 
 <strong> [Intermediate] Challange #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
