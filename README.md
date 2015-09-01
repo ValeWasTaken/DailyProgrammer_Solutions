@@ -39,6 +39,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challenge #001 -- Status: Completed
   - [Hard]
     - Challenge #192 -- Status: Completed
+    - Challenge #229 -- Status: Completed
 
 
 
@@ -191,3 +192,10 @@ You must get data from a website. Any data. Game websites. Wikipedia. Reddit. Tw
 You read in this data and generate an analysis of it.
 <BR>
 URL : http://redd.it/2p4b72
+
+<strong> [Hard] Challenge #229 -- Divisible by 7 (EC not yet met) </strong>
+<BR>
+Find the sum of all positive integers that are divisible by 7, and are also divisible by 7 when you reverse the digits.
+Extra credit: Be able to solve problem in reasonable run-time up to 10^10,000
+<BR>
+URL : https://redd.it/3irzsi
