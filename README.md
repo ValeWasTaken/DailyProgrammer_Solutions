@@ -28,6 +28,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challenge #149 -- Status: Completed
     - Challenge #173 -- Status: Completed
     - Challenge #190 -- Status: Completed
+    - Challenge #191 -- Status: Completed
     - Challenge #193 -- Status: Completed
     - Challenge #197 -- Status: Completed
     - Challenge #203 -- Status: Completed
@@ -132,6 +133,12 @@ URL : http://redd.it/2bxntq
 Your task is to scrape N (You decide but generally, the higher the sample, the more accurate) number of comments from a YouTube video of your choice and then analyse their sentiments based on a short list of happy/sad keywords
 <BR>
 URL : http://redd.it/2nauiv
+
+<strong> [Easy] Challenge #191 -- Word Counting (EC not yet met) </strong>
+<BR>
+Count the word frequency of a text file.
+<BR>
+URL : https://redd.it/2nynip
 
 <strong> [Easy] Challenge #193 -- Acronym Expander (No EC offered) </strong>
 <BR>
