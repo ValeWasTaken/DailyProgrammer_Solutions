@@ -34,6 +34,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challenge #203 -- Status: Completed
     - Challenge #208 -- Status: Completed
     - Challenge #224 -- Status: Completed
+    - Challenge #232 -- Status: Completed
   - [Intermediate] 
     - Challenge #002 -- Status: Completed
   - [Difficult] 
@@ -178,6 +179,12 @@ Write a program that can determine if the letters in a word are in alphabetical 
 Extra credit: Check for reverse order as well.
 <BR>
 URL : http://redd.it/3h9pdecha
+
+<strong> [Easy] Challenge #232 -- Palindromes (EC not yet met)</strong>
+<BR>
+Write a program that detects whether or not a particular input is a valid palindrome. 
+<BR>
+URL : https://redd.it/3kx6oh
 
 <strong> [Intermediate] Challenge #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
