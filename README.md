@@ -8,40 +8,40 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
 <h2>Table of Contents</h2>
 - <strong>C_Solutions</strong>
   - [Intermediate] 
-    - Challenge #002 -- Status: Completed
+    - Challenge #002 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/C_Solutions/%5BIntermediate%5D_Challenge_002.c">Completed</a>
 - <strong>Java_Solutions</strong>
   - [Easy] 
-    - Challenge #002 -- Status: Completed
-    - Challenge #008 -- Status: Completed
-    - Challenge #115 -- Status: Completed
+    - Challenge #002 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Java_Solutions/%5BEasy%5D_Challenge_002.java">Completed</a>
+    - Challenge #008 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Java_Solutions/%5BEasy%5D_Challenge_008.java">Completed</a>
+    - Challenge #115 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Java_Solutions/%5BEasy%5D_Challenge_115.java">Completed</a>
 - <strong>Python_Solutions</strong> (Written in Python 2.7 unless specified otherwise.)
   - [Easy] 
-    - Challenge #001 -- Status: Completed
-    - Challenge #002 -- Status: Completed
-    - Challenge #004 -- Status: Completed
-    - Challenge #093 -- Status: Completed
-    - Challenge #109 -- Status: Completed
-    - Challenge #115 -- Status: Completed
-    - Challenge #122 -- Status: Completed
-    - Challenge #128 -- Status: Completed
-    - Challenge #143 -- Status: Completed
-    - Challenge #149 -- Status: Completed
-    - Challenge #173 -- Status: Completed
-    - Challenge #190 -- Status: Completed
-    - Challenge #191 -- Status: Completed
-    - Challenge #193 -- Status: Completed
-    - Challenge #197 -- Status: Completed
-    - Challenge #203 -- Status: Completed
-    - Challenge #208 -- Status: Completed
-    - Challenge #224 -- Status: Completed
-    - Challenge #232 -- Status: Completed
+    - Challenge #001 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_001.py">Completed</a>
+    - Challenge #002 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_002.py">Completed</a>
+    - Challenge #004 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_004.py">Completed</a>
+    - Challenge #093 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_093.py">Completed</a>
+    - Challenge #109 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_109.py">Completed</a>
+    - Challenge #115 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_115.py">Completed</a>
+    - Challenge #122 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_122.py">Completed</a>
+    - Challenge #128 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_128.py">Completed</a>
+    - Challenge #143 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_143.py">Completed</a>
+    - Challenge #149 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_149.py">Completed</a>
+    - Challenge #173 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_173.py">Completed</a>
+    - Challenge #190 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_190.py">Completed</a>
+    - Challenge #191 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_191.py">Completed</a>
+    - Challenge #193 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_193.py">Completed</a>
+    - Challenge #197 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_197.py">Completed</a>
+    - Challenge #203 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_203.py">Completed</a>
+    - Challenge #208 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_208.py">Completed</a>
+    - Challenge #224 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_224.py">Completed</a>
+    - Challenge #232 -- Status: <a href="">Completed</a>
   - [Intermediate] 
-    - Challenge #002 -- Status: Completed
+    - Challenge #002 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BIntermediate%5D_Challenge_002.py">Completed</a>
   - [Difficult] 
-    - Challenge #001 -- Status: Completed
+    - Challenge #001 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BDifficult%5D_Challenge_001.py">Completed</a>
   - [Hard]
-    - Challenge #192 -- Status: Completed
-    - Challenge #229 -- Status: Completed
+    - Challenge #192 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BHard%5D_Challenge_192.py">Completed</a>
+    - Challenge #229 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BHard%5D_Challenge_229.py">Completed</a>
 
 
 
