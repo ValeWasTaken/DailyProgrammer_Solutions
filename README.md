@@ -34,7 +34,8 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challenge #203 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_203.py">Completed</a>
     - Challenge #208 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_208.py">Completed</a>
     - Challenge #224 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_224.py">Completed</a>
-    - Challenge #232 -- Status: <a href="">Completed</a>
+    - Challenge #232 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_232.py">Completed</a>
+    - Challenge #238 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_238.py">Completed</a>
   - [Intermediate] 
     - Challenge #002 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BIntermediate%5D_Challenge_002.py">Completed</a>
   - [Difficult] 
@@ -185,6 +186,11 @@ URL : https://redd.it/3h9pde
 Write a program that detects whether or not a particular input is a valid palindrome. 
 <BR>
 URL : https://redd.it/3kx6oh
+
+<strong> [Easy] Challenge #238 -- Consonants and Vowels (All extra credit met)
+<BR>
+Write a program that converts strings of 'c' and 'v's into words.
+Bonus: Handle other letters being inputted and capitalize letters if the C or V is capitalized.
 
 <strong> [Intermediate] Challenge #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
