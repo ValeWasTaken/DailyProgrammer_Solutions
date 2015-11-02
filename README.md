@@ -36,6 +36,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
     - Challenge #224 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_224.py">Completed</a>
     - Challenge #232 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_232.py">Completed</a>
     - Challenge #238 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_238.py">Completed</a>
+    - Challenge #239 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_239.py">Completed</a>
   - [Intermediate] 
     - Challenge #002 -- Status: <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BIntermediate%5D_Challenge_002.py">Completed</a>
   - [Difficult] 
@@ -191,6 +192,10 @@ URL : https://redd.it/3kx6oh
 <BR>
 Write a program that converts strings of 'c' and 'v's into words.
 Bonus: Handle other letters being inputted and capitalize letters if the C or V is capitalized.
+
+<strong> [Easy] Challenge #239 =- Game of Threes (No EC offered)
+<BR>
+Given a number, if it is divisable by 3 then do so. Otherwise add or subtract one to make it so. The game ends when the original number reaches 1.
 
 <strong> [Intermediate] Challenge #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
