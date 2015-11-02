@@ -192,6 +192,7 @@ URL : https://redd.it/3kx6oh
 <BR>
 Write a program that converts strings of 'c' and 'v's into words.
 Bonus: Handle other letters being inputted and capitalize letters if the C or V is capitalized.
+URL : https://redd.it/3r7wxz
 
 <strong> [Easy] Challenge #239 =- Game of Threes (No EC offered)
 <BR>
