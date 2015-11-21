@@ -119,7 +119,7 @@ Your goal is to read in a string of Braille characters and print off the word in
 <BR>
 URL : https://redd.it/1s061q
 
-<strong> [Easy] Challenge #149 --Disemvoweler (No EC offered) </strong>
+<strong> [Easy] Challenge #149 -- Disemvoweler (No EC offered) </strong>
 <BR>
 Remove the vowels from words and output the message (without vowels) followed by the vowels (in order) on the next line.
 <BR>
@@ -188,15 +188,18 @@ Write a program that detects whether or not a particular input is a valid palind
 <BR>
 URL : https://redd.it/3kx6oh
 
-<strong> [Easy] Challenge #238 -- Consonants and Vowels (All extra credit met)
+<strong> [Easy] Challenge #238 -- Consonants and Vowels (All extra credit met)</strong>
 <BR>
 Write a program that converts strings of 'c' and 'v's into words.
 Bonus: Handle other letters being inputted and capitalize letters if the C or V is capitalized.
+<BR>
 URL : https://redd.it/3r7wxz
 
-<strong> [Easy] Challenge #239 =- Game of Threes (No EC offered)
+<strong> [Easy] Challenge #239 -- Game of Threes (No EC offered)</strong>
 <BR>
 Given a number, if it is divisable by 3 then do so. Otherwise add or subtract one to make it so. The game ends when the original number reaches 1.
+<BR>
+URL : https://redd.it/3r7wxz
 
 <strong> [Intermediate] Challenge #2 -- Choose Your Own Adventure prototype (All extra credit criteria met) </strong>
 <BR>
