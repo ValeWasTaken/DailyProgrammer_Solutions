@@ -10,5 +10,5 @@ def bundleCounter():
 
         for bundle in soup.find_all("div", class_="bundle-item"):
                 totalBundles += 1
-        print("Total amount of bundles listed: "+str(totalBundles))
+        print("Total amount of bundles listed: {0}".format(str(totalBundles)))
 bundleCounter()
