@@ -1,7 +1,7 @@
 DailyProgrammer_Solutions
 =========================
 
-This is a repository of my solutions to the DailyProgrammer exercises. 
+This is a repository of my solutions to the reddit.com/r/DailyProgrammer exercises. 
 
 You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/wiki/challenges
 
