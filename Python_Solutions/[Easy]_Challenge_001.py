@@ -7,7 +7,7 @@ def store_info():
 
         # Store in a file
         out = open("easyChallange001_Storage.txt", 'a')
-        storedInfo = "{0}, {1}, {2}\n".format(name,age,username)
-        out.write(storedInfo)
+        info = "{0}, {1}, {2}\n".format(name,age,username)
+        out.write(info)
         out.close()
 store_info()
