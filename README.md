@@ -6,6 +6,7 @@ This is a repository of my solutions to the reddit.com/r/DailyProgrammer exercis
 You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/wiki/challenges
 
 <h2>Table of Contents</h2>
+
 - <strong>C_Solutions</strong>
   - [Intermediate] 
     - <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/C_Solutions/%5BIntermediate%5D_Challenge_002.c">Challenge #002</a>
