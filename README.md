@@ -19,6 +19,7 @@ You can find all exercises located at: http://www.reddit.com/r/dailyprogrammer/w
   - [Easy] 
     - <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_001.py">Challenge #001</a>
     - <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_002.py">Challenge #002</a>
+    - <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_003.py">Challenge #003 (Python 3.6.5)</a>
     - <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_004.py">Challenge #004</a>
     - <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_093.py">Challenge #093</a>
     - <a href="https://github.com/ArnoldM904/DailyProgrammer_Solutions/blob/master/Python_Solutions/%5BEasy%5D_Challenge_109.py">Challenge #109</a>
@@ -62,6 +63,15 @@ For extra credit, have the program log this information in a file to be accessed
 URL : https://redd.it/pih8x
 
 <strong> [Easy] Challenge #2 -- (anything) Calculator (All extra credit criteria met) </strong>
+<BR>
+Welcome to cipher day!
+write a program that can encrypt texts with an alphabetical caesar cipher. 
+This cipher can ignore numbers, symbols, and whitespace.
+For extra credit, add a "decrypt" function to your program!
+<BR>
+URL : https://redd.it/pkw2m
+
+<strong> [Easy] Challenge #3 -- Completed (All extra credit criteria met) </strong>
 <BR>
 Create a calculator application that has use in your life. It might be an interest calculator, or it might be something that you can use in the classroom. For example, if you were in physics class, you might want to make a F = M * A calc.
 EXTRA CREDIT: make the calculator have multiple functions.
